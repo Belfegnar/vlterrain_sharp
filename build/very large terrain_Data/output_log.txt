@@ -1,0 +1,129 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1991 MB
+    Driver:   9.18.13.5012
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Program Files\Large Terrain\build\very large terrain_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.022174 ms
+Configuration: parsing tengine.cfg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CONFIGURATION: set_value (screen_width, Integer 800)
+CONFIGURATION: set_value (screen_height, Integer 600)
+CONFIGURATION: set_value (screen_fullscreen, Boolean False)
+CONFIGURATION: set_value (vertex_cache_size, Integer 24)
+CONFIGURATION: set_value (quad_cache_size, Integer 1024)
+CONFIGURATION: set_value (lod_error, Float 8)
+CONFIGURATION: set_value (lod_minimum_spacing, Float 0.1)
+CONFIGURATION: set_value (dynamic_texture_size, Integer 128)
+CONFIGURATION: set_value (cg_profile, String nv20)
+CONFIGURATION: set_value (reader, String memory mapped)
+CONFIGURATION: set_value (render, String gl)
+CONFIGURATION: set_value (memory, String gl_vbo)
+CONFIGURATION: set_value (camera_fov, Float 55)
+CONFIGURATION: set_value (camera_z_near, Float 0.5)
+CONFIGURATION: set_value (camera_z_far, Float 250000)
+CONFIGURATION: set_value (detail_create_new_nodes, Boolean True)
+CONFIGURATION: set_value (detail_subdivision_factor, Float 1)
+CONFIGURATION: set_value (detail_add_material, Boolean True)
+CONFIGURATION: set_value (detail_material_type, Integer 1)
+CONFIGURATION: set_value (camera_path, String camera.pth)
+CONFIGURATION: set_value (draw_user_interface, Boolean True)
+CONFIGURATION: set_value (demo_mode, Boolean False)
+CONFIGURATION: set_value (log_file, String tengine.log)
+CONFIGURATION: set_value (video_mode, Boolean False)
+CONFIGURATION: set_value (frames_per_second, Integer 30)
+CONFIGURATION: set_value (image_path, String c:\)
+CONFIGURATION: set_value (map_file, String t2.map)
+CONFIGURATION: set_value (screen_width, Integer 800)
+CONFIGURATION: set_value (screen_height, Integer 600)
+CONFIGURATION: set_value (screen_fullscreen, Boolean False)
+CONFIGURATION: set_value (lod_error, Float 4)
+CONFIGURATION: set_value (vertex_cache_size, Integer 24)
+CONFIGURATION: set_value (quad_cache_size, Integer 700)
+CONFIGURATION: set_value (cg_profile, String arb)
+CONFIGURATION: set_value (reader, String memory mapped)
+CONFIGURATION: set_value (render, String gl)
+CONFIGURATION: set_value (memory, String gl_vbo)
+CONFIGURATION: set_value (camera_fov, Float 55)
+CONFIGURATION: set_value (camera_z_near, Float 0.5)
+CONFIGURATION: set_value (camera_z_far, Float 250000)
+CONFIGURATION: set_value (detail_create_new_nodes, Boolean True)
+CONFIGURATION: set_value (detail_subdivision_factor, Float 1)
+CONFIGURATION: set_value (detail_add_material, Boolean True)
+CONFIGURATION: set_value (detail_material_type, Integer 0)
+CONFIGURATION: set_value (camera_path, String camera.pth)
+CONFIGURATION: set_value (draw_user_interface, Boolean False)
+CONFIGURATION: set_value (demo_mode, Boolean True)
+Configuration: parsing large_map.cfg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CONFIGURATION: set_value (map_file, String ps_4k.map)
+CONFIGURATION: set_value (detail_create_new_nodes, Boolean True)
+CONFIGURATION: set_value (detail_subdivision_factor, Float 1)
+CONFIGURATION: set_value (detail_add_material, Boolean True)
+CONFIGURATION: set_value (detail_material_type, Integer 0)
+CONFIGURATION: set_value (camera_path, String large_camera.pth)
+
+CONFIGURATION: get_value (map_file, String ps_4k.map)
+CONFIGURATION: get_value (screen_width, Integer 800)
+CONFIGURATION: get_value (screen_height, Integer 600)
+CONFIGURATION: get_value (screen_fullscreen, Boolean False)
+CONFIGURATION: get_value (camera_fov, Float 55)
+CONFIGURATION: get_value (screen_width, Integer 800)
+CONFIGURATION: get_value (screen_height, Integer 600)
+CONFIGURATION: get_value (camera_z_near, Float 0.5)
+CONFIGURATION: get_value (camera_z_far, Float 250000)
+CONFIGURATION: get_value (demo_mode, Boolean True)
+CONFIGURATION: get_value (dynamic_texture_size, Integer 128)
+CONFIGURATION: get_value (quad_cache_size, Integer 700)
+CONFIGURATION: get_value (dynamic_texture_size, Integer 128)
+Allocating 700 dynamic textures of 128x128
+Allocation 700 static textures of 32x32
+Allocation total is 22 mb
+CONFIGURATION: get_value (quad_cache_size, Integer 700)
+CONFIGURATION: get_value (detail_create_new_nodes, Boolean True)
+CONFIGURATION: get_value (detail_add_material, Boolean True)
+CONFIGURATION: get_value (detail_subdivision_factor, Float 1)
+CONFIGURATION: get_value (detail_material_type, Integer 0)
+Initialising material table...
+cached!
+magic = QUADTREEMAP, ver = 2, ok = True, pos = 52305458
+CONFIGURATION: get_value (vertex_cache_size, Integer 24)
+CONFIGURATION: get_value (screen_width, Integer 800)
+CONFIGURATION: get_value (screen_height, Integer 600)
+CONFIGURATION: get_value (dynamic_texture_size, Integer 128)
+CONFIGURATION: get_value (video_mode, Boolean False)
+m_heightmap_size = 65
+CONFIGURATION: get_value (quad_cache_size, Integer 700)
+Allocating 25 mb of memory for geometry
+CONFIGURATION: get_value (lod_minimum_spacing, Float 0.1)
+CONFIGURATION: get_value (lod_error, Float 4)
+CONFIGURATION: get_value (video_mode, Boolean False)
+CONFIGURATION: get_value (draw_user_interface, Boolean False)
+CONFIGURATION: get_value (demo_mode, Boolean True)
+CONFIGURATION: get_value (camera_path, String large_camera.pth)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f68 -> priority: 1 
